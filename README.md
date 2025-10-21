@@ -21,7 +21,7 @@ Este projeto realizado dia 10/02/2025 não possui fins comerciais e foi criado a
   <img src="assets/img/screen3.png" alt="Demonstração do Projeto" width="700"/>
 </p>
 
-[SenaiFlix-indexadorDeSeries](https://senai-page.vercel.app/)
+[SenaiFlix-indexadorDeSeries](https://senai-flix-indexador-de-series.vercel.app/)
 
 ---
 
